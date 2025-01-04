@@ -1,4 +1,3 @@
-
 // Sample.javaのgetGeneration関数のテストを行う
 // テスト対象はsample.javaのgetGeneration関数
 
